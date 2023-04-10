@@ -1,0 +1,8 @@
+{
+  "url": "https://devopsiis.trinity-solar.com:5020/OneButton/#/",
+  "uam_url":"https://uam_dev.trinity-solar.com/#/",
+  "browser": "chrome",
+  "driver_timeout": "20",
+  "username":"testcontractor@trinity-solar.com",
+  "password":"BTSh3nanD0@h257"
+}
